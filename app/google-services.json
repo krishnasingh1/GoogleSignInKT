@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966852066011",
+    "project_id": "kolinfirebaseorphoneotp",
+    "storage_bucket": "kolinfirebaseorphoneotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966852066011:android:701ed5aaee98def454eafe",
+        "android_client_info": {
+          "package_name": "com.example.kpcoder.googlesignorphoneotpkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966852066011-6dbvb3sc02so85qpjqkb33hha8b97874.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kpcoder.googlesignorphoneotpkt",
+            "certificate_hash": "6a1f3991987e2843eff0bc4ef17fd57c2c35fdf1"
+          }
+        },
+        {
+          "client_id": "966852066011-k7l2a326oqc1q1qpkm6b96dttukijd1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQf5YASKsjnIQt5Q6K947sW0YRWWiKbco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966852066011-k7l2a326oqc1q1qpkm6b96dttukijd1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
